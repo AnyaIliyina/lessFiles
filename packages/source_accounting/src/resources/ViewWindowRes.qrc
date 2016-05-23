@@ -1,0 +1,22 @@
+<RCC>
+  <qresource>
+    <file>images/upload.png</file>
+    <file>./images/arrow-right.png</file>
+    <file>./images/root.png</file>
+    <file>./images/1.png</file>
+    <file>./images/check.png</file>
+    <file>./images/plus+.png</file>
+    <file>./images/close.png</file>
+    <file>./images/note.png</file>
+    <file>./images/play.png</file>
+    <file>./images/plus.png</file>
+    <file>./images/share2.png</file>
+    <file>./images/trash.png</file>
+    <file>./translations/qt_ru.qm</file>
+    <file>./translations/qtbase_ru.qm</file>
+    <file>./translations/qtscript_ru.qm</file>
+    <file>./translations/qtquick1_ru.qm</file>
+    <file>./translations/qtmultimedia_ru.qm</file>
+    <file>./translations/qtxmlpatterns_ru.qm</file>
+  </qresource>
+</RCC>
